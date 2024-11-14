@@ -12,7 +12,7 @@
 
 ### 1. Application signed with debug certificate
 
-- **Descripción :** Aplicación firmada con un certificado de depuración. La aplicación de producción no debe enviarse con un certificado de depuración.
+- *Descripción :* Aplicación firmada con un certificado de depuración. La aplicación de producción no debe enviarse con un certificado de depuración.
  
 - ** Gravedad :** Alta.
 
@@ -29,7 +29,7 @@
 - **Descripción :** Esta aplicación se puede instalar en una versión anterior de Android que tiene múltiples vulnerabilidades no corregidas. 
 Estos dispositivos no recibirán actualizaciones de seguridad razonables de Google. Soporta una versión de Android => 10, API 29 para recibir actualizaciones de seguridad razonables.
  
-- ** Gravedad :** Alta.
+- * Gravedad :* Alta.
 
 - ** Impacto :** Exposición a Vulnerabilidades Conocidas, Acceso No Autorizado a Datos, Riesgo de Malware y Consecuencias Legales y Financieras.
 
